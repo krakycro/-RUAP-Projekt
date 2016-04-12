@@ -7,6 +7,7 @@
 int _tmain(int argc, _TCHAR* argv[])
 {
 	printf("Pozdrav od Filipa Krausa index neznam :/");
+
 	getchar();
 	return 0;
 }
