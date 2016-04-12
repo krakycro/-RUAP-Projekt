@@ -6,7 +6,11 @@
 
 int _tmain(int argc, _TCHAR* argv[])
 {
+<<<<<<< HEAD
+	printf("Pozdrav od Filipa Krausa index neznam :/");
+=======
 	printf("Pozdrav od Filipa Krausa");
+>>>>>>> b79e463... lv1
 	getchar();
 	return 0;
 }
